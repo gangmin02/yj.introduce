@@ -1,0 +1,24 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-size: 10px;
+    color: #1f1f1f;
+}
+
+
+
+a{
+    text-decoration: none;
+    color: inherit;
+}
+
+img, iframe, video{
+    max-width: 100%;
+    vertical-align: top;
+}
+
+button{
+    background-color: transparent;
+    border: none;
+}
